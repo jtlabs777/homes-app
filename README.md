@@ -39,7 +39,7 @@ Follow these steps to set up and run the application:
 After setting up, you can start the application by running:
 ```bash
 ng serve
-
+```
 By default, the application will be running on port 4200. To view the application, open a web browser and navigate to http://localhost:4200.
 
 
