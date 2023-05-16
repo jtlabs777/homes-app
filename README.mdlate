@@ -16,7 +16,7 @@ During the tutorial, I learned several crucial aspects of Angular:
 
 ## Requirements
 
-To run this application, you'll need to have the latest stable Long Term Support (LTS) versions of Node.js and Angular installed on your system. At the time of writing, this refers to Node.js v18.16.0 LTS and Angular v12.
+To run this application, you'll need to have the latest stable Long Term Support (LTS) versions of Node.js and Angular installed on your system. At the time of writing, this refers to Node.js v18.16.0 LTS and Angular v16.
 
 ## Installation and Setup
 
